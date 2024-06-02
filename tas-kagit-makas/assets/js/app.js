@@ -69,7 +69,7 @@ btn.addEventListener("click", () => {
   }
 
 });
-
+// arrow function 
 btn1.addEventListener("click", () => {
   xxx.style.display = "block";
   ucgen.style.display = "none";
